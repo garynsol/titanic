@@ -2,5 +2,7 @@
 An R-based model that predicts which passengers will survive on the Titanic.
 
 Test & Train Data Disctionary
-<img width="612" alt="image" src="https://github.com/garynsol/titanic/assets/76223170/3094db59-497e-4351-bab9-edf6dbb98ce5">
+
+![image](https://github.com/garynsol/titanic/assets/76223170/91c80bf0-8742-4f70-8073-276bb8e8b4c3)
+
 
